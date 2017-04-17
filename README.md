@@ -1,2 +1,2 @@
 # JavaGUI
-cs159 GIT and GUI lab
+Github/GUI Intro Lab
